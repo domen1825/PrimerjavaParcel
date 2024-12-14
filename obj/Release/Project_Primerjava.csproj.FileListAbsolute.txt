@@ -1,0 +1,14 @@
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\bin\Release\Project_Primerjava.exe.config
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\bin\Release\Project_Primerjava.exe
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\bin\Release\Project_Primerjava.pdb
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.csproj.AssemblyReference.cache
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\MainWindow.baml
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\MainWindow.g.cs
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\App.g.cs
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava_MarkupCompile.cache
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.g.resources
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.Properties.Resources.resources
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.csproj.GenerateResource.cache
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.csproj.CoreCompileInputs.cache
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.exe
+C:\Users\domen\Desktop\Parcelna_primerjava\Project_Primerjava\obj\Release\Project_Primerjava.pdb
